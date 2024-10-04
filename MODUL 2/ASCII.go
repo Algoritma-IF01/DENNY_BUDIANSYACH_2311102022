@@ -14,4 +14,4 @@ func main() {
 
 	fmt.Printf("%c%c%c%c%c\n", int1, int2, int3, int4, int5)
 	fmt.Printf("%c%c%c\n", char1+1, char2+1, char3+1)
-}
+} 

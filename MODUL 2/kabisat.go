@@ -11,4 +11,4 @@ func main(){
 	}else{
 		fmt.Println("tahum kabisat : False")
 	}
-}
+} 

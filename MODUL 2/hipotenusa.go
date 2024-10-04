@@ -12,4 +12,4 @@ func main(){
 	fmt.Scanln(&c)
 	hipotenusa = (c*c) ==(a*a+b*b)
 	fmt.Println("sisi c adalah hipotenusa segitiga a, b, c: ", hipotenusa)
-}
+} 

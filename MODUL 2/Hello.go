@@ -7,4 +7,4 @@ func main(){
 	fmt.Println(greetings)
 	fmt.Scanln(&a, &b)
 	fmt.Printf("%v+%v = %v\n", a, b, a+b)
-}
+} 
